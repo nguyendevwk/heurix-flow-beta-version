@@ -1,4 +1,4 @@
-# HeurixFlow v0.31.0
+# HeurixFlow v0.31.0 [BETA-VERSION]
 
 Low-latency piano auto-player for Sky: Children of the Light.
 
